@@ -7,3 +7,5 @@ To run, open Runscript.R and follow it's instructions.
 I recommend changing a GECKO-A data file before compiling your gecko code:
 	mch_inorg.dat replaced with the file of the same name in this folder
 	this has slightly different constants for the inorganic Troe (aka FALLOFF) equations, that are more closely based on experimental data (and what the mcm uses)
+
+It is written in R because thats what I know, feel free to use this to make your own in your own favorite language
