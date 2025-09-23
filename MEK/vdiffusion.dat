@@ -1,0 +1,12 @@
+       8  ! number of records (species) in the file
+! Diffusion volume computed using the Fuller et al. approach,
+! as described in Poling et al. book (5th edition, 2004)
+GA02000     53.26
+GG02000     59.37
+GP02000     73.82
+GKO3000     73.78
+GNK3000     88.23
+GHK3000     79.89
+GK03000     67.67
+GDK3000     69.16
+END 
